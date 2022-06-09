@@ -1,0 +1,26 @@
+{
+  "name": "test-package",
+  "version": "0.0.0",
+  "private": true,
+  "engines": {
+    "node": ">=16",
+    "npm": ">=8"
+  },
+  "scripts": {},
+  "dependencies": {
+    "@docusaurus/core": "^2.0.0-beta.20"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {}
+}
